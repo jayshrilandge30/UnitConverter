@@ -41,7 +41,8 @@ This project is a versatile unit converter application developed using Java. It 
 
 ## Screenshots
 <div align="left">
-    <img src="docs/promo/screenshot.png" alt="Screenshot of the Unit Converter">
+    <img src="![image](https://github.com/user-attachments/assets/1c3946c1-93b3-4417-aa9f-1113864e631c)
+" alt="Screenshot of the Unit Converter">
 </div>
 <br>
 <div align="left">
