@@ -15,7 +15,7 @@ This project is a versatile unit converter application developed using Java. It 
 ## Installation
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/yourusername/unit-converter.git
+    git clone https://github.com/jayshrilandge30/unit-converter.git
     cd unit-converter
     ```
 2. Build the Project:
