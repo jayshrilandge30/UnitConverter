@@ -41,12 +41,11 @@ This project is a versatile unit converter application developed using Java. It 
 
 ## Screenshots
 <div align="left">
-    <img src="![image](https://github.com/user-attachments/assets/1c3946c1-93b3-4417-aa9f-1113864e631c)
-" alt="Screenshot of the Unit Converter">
+    <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2022/02/temperature-selection.webp" alt="Screenshot of the Unit Converter">
 </div>
 <br>
 <div align="left">
-    <img src="docs/promo/screenshot_error.png" alt="Screenshot of an error in the Unit Converter">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fstandard-gui-unit-converter-in-python&psig=AOvVaw3KmfO92ykj9fCGuhSbXE-5&ust=1728384560985000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMif2LCM_IgDFQAAAAAdAAAAABAE" alt="Screenshot of an error in the Unit Converter">
 </div>
 <br>
 
