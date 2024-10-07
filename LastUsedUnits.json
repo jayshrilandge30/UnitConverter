@@ -1,0 +1,26 @@
+{
+  "1" : {
+    "convert_unit_from" : 2,
+    "convert_unit_to" : 3
+  },
+  "2" : {
+    "convert_unit_from" : 3,
+    "convert_unit_to" : 4
+  },
+  "3" : {
+    "convert_unit_from" : 6,
+    "convert_unit_to" : 5
+  },
+  "4" : {
+    "convert_unit_from" : 2,
+    "convert_unit_to" : 0
+  },
+  "5" : {
+    "convert_unit_from" : 1,
+    "convert_unit_to" : 3
+  },
+  "6" : {
+    "convert_unit_from" : 2,
+    "convert_unit_to" : 1
+  }
+}
